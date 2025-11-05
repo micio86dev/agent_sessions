@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller build
+/dist/
+/build/
+*.spec
+
+# macOS
+.DS_Store
+
+# Logs and SQLite
+*.log
+*.db
+
+# Env files
+.env
+.env.*.local
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.orig
+
+# Node (in case you mix with frontend)
+node_modules/
+
+# Others
+*.pyc
+mock_events.json

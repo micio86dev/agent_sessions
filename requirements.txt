@@ -1,0 +1,7 @@
+psutil
+watchdog
+requests
+pymongo
+python-dateutil
+python-dotenv
+load_dotenv
